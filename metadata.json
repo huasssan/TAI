@@ -1,0 +1,5 @@
+{
+  "name": "Data Asset TAI & Metadata Gen",
+  "description": "A demo platform for automatic data indicator metadata generation and Trustworthy AI (TAI) rating assessment using Gemini and rule-based logic.",
+  "requestFramePermissions": []
+}
